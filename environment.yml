@@ -1,0 +1,10 @@
+name: LUcompute
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - copy
