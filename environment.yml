@@ -1,4 +1,4 @@
-name: LUcompute
+name: Carlos Gómez-Ortiz
 channels:
   - conda-forge
 dependencies:
