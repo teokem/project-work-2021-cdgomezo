@@ -1,4 +1,4 @@
-name: Carlos Gómez-Ortiz
+name: Inverter
 channels:
   - conda-forge
 dependencies:
