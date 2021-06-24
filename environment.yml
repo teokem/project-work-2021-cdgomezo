@@ -1,0 +1,10 @@
+name: Inverter
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - copy
